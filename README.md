@@ -48,6 +48,14 @@ Projeto desenvolvido para simular o funcionamento de um carro com regras de neg�
 
 ---
 
+## Tecnologias
+- Java
+- Programação Orientada a Objetos (POO)
+
+## Autor
+- Vinicius Batista Santos
+
+
 ## 🐛 Bug encontrado e corrigido no exercício 
 
 Durante o desenvolvimento, foi identificado um problema na regra de troca de marchas:
@@ -64,4 +72,4 @@ Durante o desenvolvimento, foi identificado um problema na regra de troca de mar
 
 ```text
 1ª marcha: 0 - 20 km/h
-2ª marcha: 20 - 40 km/h
+2ª marcha: 20 - 40 km/h ...
